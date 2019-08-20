@@ -1,3 +1,7 @@
+Comandos La Positiva 
+
+Usar PWSH 5.0 
+
 $user = "auto"
 $pass = "C4nv14%%19"
 $maxlimit = 100000
@@ -14,4 +18,5 @@ if ($arreg[1] -gt $maxlimit) {
 }else{
     Write-Host El numero de sesiones actuales es $arreg[1]
 }
+
 
