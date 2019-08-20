@@ -15,3 +15,4 @@ if ($arreg[1] -gt $maxlimit) {
     Write-Host El numero de sesiones actuales es $arreg[1]
 }
 
+ 
